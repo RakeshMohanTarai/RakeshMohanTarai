@@ -1,6 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rakeshmohantarai.io)
 <h1 align="center">Hi 👋, I'm Rakesh Mohan Tarai</h1>
 <h3 align="center">A passionate Full Stack Web Development</h3>
+<p>I'm an enthusiastic Full Stack Web Developer with a strong command of Express, Node.js, and MongoDB. I hold a Master's degree in Computer Application (MCA) from M.P.C Autonomous College, Odisha. My coding journey has been further enriched through participation in the prestigious Coding Ninjas career camp.</p>
+
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/a2bf19_63a638ddedeb40519133d3e5f6d685be~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshmohantarai&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshmohantarai" /> </p>
@@ -9,11 +11,14 @@
 
 - 🌱 I’m currently learning **Node.js , React**
 
-- 💬 Ask me about **Data Structure, Bootstrap, Java Script, OOPS, OS, MERN**
+- 🚀 Skills: Data Structures, Java, Node.js, MongoDB, JavaScript, Object-Oriented Programming (OOP), Bootstrap, HTML, CSS
+
+- 🏆 Achievements
+I've excelled in LinkedIn skill tests, demonstrating proficiency in a range of programming languages and web technologies, including Java, Data Structures, JavaScript, CSS, HTML, and Bootstrap. 🏅
 
 - 📫 How to reach me **rakesh.mohan1999@gmail.com**
 
-- ⚡ Fun fact **Aside from coding, I'm passionate about technology trends, finance, and personal development. Feel free to reach out for engaging discussions on these topics. Let's embark on a coding adventure together!**
+- ⚡ Fun fact Aside from coding, I'm passionate about technology trends, finance, and personal development. Feel free to reach out for engaging discussions on these topics. Let's embark on a coding adventure together! 💡🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
